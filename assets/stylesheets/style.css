@@ -1,0 +1,131 @@
+body{
+	font-family: 'Abel', sans-serif;
+	background-color: #d8d8d8;
+}
+
+
+img{
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-left: 5%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+img:hover{
+	opacity:.5;
+}
+
+#imgSize{
+	height: 200px;
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#logoDiv{
+	background-color:black;
+	float: left;
+	margin-left: 0px;
+}
+
+
+a{
+	/*float: right;*/
+	/*line-height: 75px;*/
+	/*color:white;*/
+}
+
+#portfolio, #home, #resume, #contactMe,  #about {
+	margin:15px;
+	float: right;
+	line-height: 151px;
+	color: #ffffff;
+}
+
+#subtle{
+	float: right;
+}
+
+.head:hover{
+	color:#d8d8d8;
+}
+
+.head{
+	font-size: 30px;
+}
+
+/*STYLING FOR THE HEADER DIV*/
+#headerDiv{
+	color:#ffffff;
+	background: #000000;
+	font-size: 20px;
+}
+
+/*========================================Main Me Div===================================================*/
+#subtle{
+	font-size:  80px;
+	line-height: 210px;
+}
+
+#name{
+	text-align: center;
+	font-size: 200px;
+}
+
+
+/*===================================Skills Div========================================================*/
+
+#mainSkills{
+	background-color: #d8d8d8;
+	height: 100%;
+}
+
+#headSkill{
+	font-size:  75px;
+	/*margin-left:5%;*/
+	color:#000000;
+	line-height: 30px;
+}
+
+#skillz{
+	font-size: 25px;
+	/*margin-left:10%;*/
+	color:#000000;
+	line-height: 30px;
+	height: 100%;
+	padding-left: 5%;
+}
+
+
+/*=================================Footer Div ====================================*/
+.footerCustom{
+	clear:left;
+	color:#ffffff;
+	background: #000000;
+	position: absolute;
+	width: 100%;
+	bottom:0;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
+
+/*==============================================Contact Us Page====================*/
+
+#contact{
+	text-align: center
+
+}
+
+/*===================Portfolio ==============*/
+.caption{
+	clear: both;
+	text-align: center;
+}
+
+
