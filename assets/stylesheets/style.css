@@ -14,7 +14,7 @@ img{
 }
 
 img:hover{
-	opacity:.5;
+	/*opacity:.5;*/
 }
 
 #imgSize{
@@ -126,6 +126,12 @@ a{
 .caption{
 	clear: both;
 	text-align: center;
+}
+
+
+/*Article color text*/
+#articleName{
+	color: blue;
 }
 
 
